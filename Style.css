@@ -1,0 +1,56 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #2e1f1a; /* Deep cocoa */
+  color: #f3e9dd; /* Soft cream */
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #4b2e1a; /* Rich chocolate */
+  color: #fbe9d0;
+  padding: 1.5rem;
+  text-align: center;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.4);
+}
+
+main {
+  padding: 2rem;
+  max-width: 800px;
+  margin: auto;
+  background-color: #3a2317; /* Slightly lighter brown for main content */
+  border-radius: 12px;
+  box-shadow: 0 0 20px rgba(0,0,0,0.4);
+}
+
+section {
+  margin-bottom: 2rem;
+}
+
+h1, h2 {
+  color: #f7d6a8; /* Golden caramel tone */
+}
+
+p, li {
+  line-height: 1.6;
+}
+
+.fun-facts {
+  background-color: #4a3024;
+  padding: 1rem;
+  border-left: 6px solid #d6a25e; /* Butterscotch accent */
+  border-radius: 8px;
+}
+
+ul {
+  padding-left: 1.2rem;
+}
+
+footer {
+  text-align: center;
+  padding: 1rem;
+  background-color: #4b2e1a;
+  color: #fbe9d0;
+  font-size: 0.9rem;
+  border-top: 2px solid #d6a25e;
+}
